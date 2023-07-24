@@ -43,10 +43,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "overrides": {
-    "@ant-design/charts": {
-      "antd": "^5.0.7"
-    }
   }
+ 
 }
